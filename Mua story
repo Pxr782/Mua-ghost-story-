@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>มั่ว - เรื่องผี</title>
+    <style>
+        body { background-color: #FF6666; text-align: center; color: white; font-family: Arial, sans-serif; }
+        h1 { font-size: 40px; text-shadow: 2px 2px 4px black; }
+        p { font-size: 20px; }
+    </style>
+</head>
+<body>
+    <h1>ยินดีต้อนรับสู่เว็บไซต์ "มั่ว"</h1>
+    <p>กดที่นี่เพื่ออ่านเรื่องผี</p>
+</body>
+</html>
